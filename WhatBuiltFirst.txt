@@ -1,0 +1,26 @@
+<template>
+  <div class="root">
+      <nav class="flex bg-white shadow-md h-16">
+          <h1 class="flex flex-1 ml-10 mt-5 text-xl">Danny Nah</h1>
+          <ul class="flex justify-center mr-32 mt-5">
+              <li class="text-xl ml-3">About</li>
+              <li class="text-xl ml-3">Blog</li>
+              <li class="text-xl ml-3">Podcast</li>
+              <li class="text-xl ml-3">Projects</li>
+          </ul>
+      </nav>
+      <header>
+          <div class="header-wrapper flex mx-8 my-8">
+              <div class="text text-3xl leading-10">
+               Hey I am Danny Nah.
+               I am an aspiring software engineer,
+               a designer, game enthusiast and a<br> 
+               semi-pro football player.
+               Come with me on my digital journey
+               let's learn together.
+              </div>
+              <img class="object-contain w-auto h-80" src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=693&q=80" alt="">
+          </div>
+      </header>
+  </div>
+</template>
