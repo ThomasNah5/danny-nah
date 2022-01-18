@@ -54,18 +54,6 @@
         </div>
         </div>
       </section>
-      <section class="mx-4 my-4">
-        <h1>Projects</h1>
-        <div class="flex flex-wrap">
-         <div class="bg-blue-500 w-36">s</div>
-         <div class="bg-blue-500 ml-6 w-36 h-36">s</div>
-         <div class="bg-blue-500 ml-6 w-36 h-36">s</div>
-         <div class="bg-blue-500 w-36 h-36">s</div>
-         <div class="bg-blue-500 ml-6 w-36 h-36">s</div>
-         <div class="bg-blue-500 ml-6 w-36 h-36">s</div>
-         <div class="bg-blue-500 w-36 h-36">s</div>
-        </div>
-      </section>
   </div>
 </template>
 

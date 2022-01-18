@@ -29,6 +29,18 @@
         <h1>Dec 6</h1>
         <p class="ml-24">My First Blog Post</p>
        </div>
+       <div class="flex my-4">
+        <h1>Dec 6</h1>
+        <p class="ml-24">My First Blog Post</p>
+       </div>
+       <div class="flex my-4">
+        <h1>Dec 6</h1>
+        <p class="ml-24">My First Blog Post</p>
+       </div>
+       <div class="flex my-4">
+        <h1>Dec 6</h1>
+        <p class="ml-24">My First Blog Post</p>
+       </div>
    </div>
 </div>
 </template>
